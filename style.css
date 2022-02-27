@@ -128,8 +128,10 @@ body {
   transform: rotate(90deg);
   margin-top: 50px;
   margin-left: 140px;
+  color: #96080d;
 }
 .second-line-strike {
+  color: #96080d;
   font-family: monospace;
   font-size: 250px;
   display: inline;
@@ -139,6 +141,7 @@ body {
   margin-left: 140px;
 }
 .third-line-strike {
+  color: #96080d;
   font-family: monospace;
   font-size: 250px;
   display: inline;
@@ -148,6 +151,7 @@ body {
   margin-left: 140px;
 }
 .first-column-strike {
+  color: #96080d;
   font-family: monospace;
   font-size: 250px;
   display: inline;
@@ -156,6 +160,7 @@ body {
   margin-left: 30px;
 }
 .second-column-strike {
+  color: #96080d;
   font-family: monospace;
   font-size: 250px;
   display: inline;
@@ -164,6 +169,7 @@ body {
   margin-left: 132px;
 }
 .third-column-strike {
+  color: #96080d;
   font-family: monospace;
   font-size: 250px;
   display: inline;
@@ -172,6 +178,7 @@ body {
   margin-left: 232px;
 }
 .diagonal-left-strike {
+  color: #96080d;
   font-family: monospace;
   font-size: 300px;
   display: inline;
@@ -181,6 +188,7 @@ body {
   transform: rotate(-45deg);
 }
 .diagonal-right-strike {
+  color: #96080d;
   font-family: monospace;
   font-size: 300px;
   display: inline;
