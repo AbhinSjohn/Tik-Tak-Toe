@@ -7,7 +7,7 @@ body {
   justify-content: center;
   background-color: #305475;
   background-image: url("c.jpg");
-  background-size: cover;
+  background-size: auto;
 }
 
 #container {
@@ -38,7 +38,7 @@ body {
 .cell {
   /* position: absolute; */
 
-  background-color: #fff;
+  background-color: rgb(3, 0, 2);
   height: 100px;
   width: 100px;
   display: flex;
